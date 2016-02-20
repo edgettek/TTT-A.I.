@@ -6,6 +6,10 @@ Name: Kyle Edgette
 Course: CSC 242 SPRING 2016
 Assignment: Project 01
 
+Description:
+
+A Java program plays basic 3x3 board Tic-Tac-Toe and 9-Board Tic-Tac-Toe (where regular 3x3 TTT boards make up a 3x3 Array). The agent uses adversarial search with alpha-beta pruning in both versions of the game, as well as a heuristic evaluation function in the 9-Board version. 
+
 
 Running the Program:
 
